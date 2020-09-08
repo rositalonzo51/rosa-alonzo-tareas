@@ -1,2 +1,2 @@
 # rosa-alonzo-tareas
-1.-TITULOS DE LAS LECCIONES DEL VIMTUTOR
+1.-Titulos de las lecciones vimtutor
